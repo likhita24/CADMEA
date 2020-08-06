@@ -1,0 +1,51 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: sans-serif;
+}
+
+#welcome-box{
+    padding: 10%;
+  }
+.navbar-brand{
+    padding: 0 26% 0 25%;
+  }
+#about-card{
+    padding: 5% 0 5% 0;
+  }
+  /* FOOTER section */
+#footer{
+    padding: 20px;
+  }
+.footer-line{
+  text-align: center;
+  }
+#footer
+{
+    font-size: small;
+}
+.navbar
+{
+    position: sticky;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 45px;
+    width: 50%;
+  }
+#first
+{
+    margin-left: 45px;
+    margin-right: 45px;
+}
+#cheyi
+{
+    margin-left: 45px;
+    margin-right: 45px;
+}
+  
